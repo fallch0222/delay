@@ -1,3 +1,3 @@
 # delay
 
-common C# delay line
+common C# delay function
